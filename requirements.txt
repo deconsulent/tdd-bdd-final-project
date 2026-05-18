@@ -1,0 +1,10 @@
+flask
+flask-sqlalchemy
+factory-boy
+faker
+selenium
+behave
+requests
+nose
+coverage
+pylint
